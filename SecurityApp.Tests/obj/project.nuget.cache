@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6sxIBFbZMYk=",
+  "dgSpecHash": "Sta+a5gyqdU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\franko.katalenic\\source\\repos\\certifikat_vjezbe\\SecurityAppRepo\\SecurityApp.Tests\\SecurityApp.Tests.csproj",
+  "projectFilePath": "C:\\Users\\franko.katalenic\\source\\repos\\certifikat_vjezbe\\SecurityAppRepo\\securityapp.tests\\SecurityApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\franko.katalenic\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\franko.katalenic\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",

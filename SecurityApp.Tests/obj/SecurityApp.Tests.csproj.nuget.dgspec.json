@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\franko.katalenic\\source\\repos\\certifikat_vjezbe\\SecurityAppRepo\\SecurityApp.Tests\\SecurityApp.Tests.csproj": {}
+    "C:\\Users\\franko.katalenic\\source\\repos\\certifikat_vjezbe\\SecurityAppRepo\\securityapp.tests\\SecurityApp.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\franko.katalenic\\source\\repos\\certifikat_vjezbe\\SecurityAppRepo\\SecurityApp.Tests\\SecurityApp.Tests.csproj": {
+    "C:\\Users\\franko.katalenic\\source\\repos\\certifikat_vjezbe\\SecurityAppRepo\\securityapp.tests\\SecurityApp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\franko.katalenic\\source\\repos\\certifikat_vjezbe\\SecurityAppRepo\\SecurityApp.Tests\\SecurityApp.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\franko.katalenic\\source\\repos\\certifikat_vjezbe\\SecurityAppRepo\\securityapp.tests\\SecurityApp.Tests.csproj",
         "projectName": "SecurityApp.Tests",
-        "projectPath": "C:\\Users\\franko.katalenic\\source\\repos\\certifikat_vjezbe\\SecurityAppRepo\\SecurityApp.Tests\\SecurityApp.Tests.csproj",
+        "projectPath": "C:\\Users\\franko.katalenic\\source\\repos\\certifikat_vjezbe\\SecurityAppRepo\\securityapp.tests\\SecurityApp.Tests.csproj",
         "packagesPath": "C:\\Users\\franko.katalenic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\franko.katalenic\\source\\repos\\certifikat_vjezbe\\SecurityAppRepo\\SecurityApp.Tests\\obj\\",
+        "outputPath": "C:\\Users\\franko.katalenic\\source\\repos\\certifikat_vjezbe\\SecurityAppRepo\\securityapp.tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -35,7 +35,5 @@ The latest test run reported 8 passing tests. The coverage includes input valida
 
 ## Remaining Security Work
 
-- Registration grants the Admin role based on an email suffix without verifying ownership. Assign privileged roles through a trusted administrative process instead.
-- The seed-users POST handler is not currently protected by an Admin authorization check.
+- *THIS IS ONLY BECAUSE THIS IS A PRACTICE PROJECT* - Registration grants the Admin role based on an email suffix without verifying ownership. Assign privileged roles through a trusted administrative process instead.
 - Review the full Git history and rotate previously exposed secrets; deleting a secret from the latest settings file does not remove it from earlier commits.
-- The most recent test run was performed without restoring after the test dependencies changed. Run `dotnet test` again to verify the final restored dependency graph.
